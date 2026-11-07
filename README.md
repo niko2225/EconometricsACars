@@ -47,4 +47,4 @@ Variables include:
 
 ## Academic Context
 
-Completed as the final project in **Econometrics A** at the University of Copenhagen, 2026. The project was also presented at an oral examination.
+Completed as the final project in **Econometrics A** at the University of Copenhagen, 2026. The project was also presented at an oral examination and received a grade of 12 (A on the Danish grading scale)
